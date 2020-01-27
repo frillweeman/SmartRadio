@@ -1,0 +1,12 @@
+# APRS Test Strings
+
+Feed the following strings into direwolf and transmit on NA APRS freq (144.39 MHz).
+
+# Message
+KN4VJS-1>APDTHC,WIDE1-1,WIDE2-1::        :Hello from KN4VJS
+
+# Email
+KN4VJS-1>APDTHC,WIDE1-1,WIDE2-1:EMAIL    :wgf0002@uah.edu test email APRS
+
+# User-Defined
+KN4VJS-1>APDTHC,WIDE1-1,WIDE2-1:{04206969:my own data
