@@ -1,0 +1,11 @@
+{
+  "name": "aprs",
+  "version": "1.0.0",
+  "description": "APRS client for Linux systems running direwolf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Freeman",
+  "license": "ISC"
+}
